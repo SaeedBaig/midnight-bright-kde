@@ -1,5 +1,5 @@
 # Midnight Bright KDE (Kvantum Theme)
-A brighter version of [Midnight-KDE](https://github.com/Rokin05/midnight-kde)'s Kvantum theme
+A brighter version of [Midnight KDE](https://github.com/Rokin05/midnight-kde)'s Kvantum theme
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/preview.png" alt="Preview Midnight Bright KDE"/>
