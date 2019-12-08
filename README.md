@@ -13,6 +13,8 @@ A brighter version of [Midnight KDE](https://github.com/Rokin05/midnight-kde)'s 
   </sub></sup>
 </p>
 
+This version has slightly brighter text in windows/menubars/sidebars (easier to read IMHO).
+
 ## Installation
 1. Download ZIP
 2. Extract
