@@ -3,6 +3,14 @@ A brighter version of [Midnight KDE](https://github.com/Rokin05/midnight-kde)'s 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/preview.png" alt="Preview Midnight Bright KDE"/>
+  <a href="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-blue.png"><img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-blue.png" alt="Midnight Bright Blue" width="250"/></a>
+  <a href="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-green.png"><img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-green.png" alt="Midnight Bright Green" width="250"/></a>
+  <a href="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-purple.png"><img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-purple.png" alt="Midnight Bright Purple" width="250"/></a>
+  <a href="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-yellow.png"><img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-yellow.png" alt="Midnight Bright Yellow" width="250"/></a>
+  <a href="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-red.png"><img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/midnight-bright-red.png" alt="Midnight Bright Red" width="250"/></a>
+</p>
+
+<p align="center">
   <sup><sub>
     Screenshot Details:
     Kvantum Theme: Midnight Bright | 
