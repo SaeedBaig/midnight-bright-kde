@@ -1,6 +1,18 @@
 # Midnight Bright KDE (Kvantum Theme)
 A brighter version of [Midnight-KDE](https://github.com/Rokin05/midnight-kde)'s Kvantum theme
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SaeedBaig/midnight-bright-kde/master/screenshots/preview.png" alt="Preview Midnight Bright KDE"/>
+  <sup><sub>
+    Screenshot Details:
+    Kvantum Theme(s): Midnight-Bright-(Blue|Green|Purple|Yellow|Red) | 
+    Icons: <a href="https://store.kde.org/p/1313081">Neon Knights (Blue|Green|Violet|Yellow|Red) Folders</a> | 
+    Aurorae Decoarations: <a href="https://store.kde.org/p/1320441">Neon Knights (Blue|Green|Violet|Yellow|Red)</a> | 
+    Engine: <a href="https://github.com/tsujan/Kvantum/tree/master/Kvantum">Kvantum</a> | 
+    Plasma Theme: <a href="https://store.kde.org/p/1308882">DarkUnification</a>
+  </sub></sup>
+</p>
+
 ## Installation
 1. Download ZIP
 2. Extract
